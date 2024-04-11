@@ -1,12 +1,27 @@
-## Chicken Client - an advanced Minecraft client.
+![Chicken Client Logo]("link_here")
 
-<!--
+# Chicken Client
 
-**Here are some ideas to get you started:**
+**The best Minecraft Client for PVP and Performance!**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Chicken Client is the best free Minecraft Performance enhancing client! We cannot wait for you to try it.
+
+## Features of Chicken Client
+
+- **Boost Performance** - Chicken Client is a very optimized client for performance, it can run on many different configurations. If you have an Intel Core i3, it works! A Ryzen 9? it works great!
+- **UI Customization** - We allow customization of the client UI, modules, etc!
+- **Compatibility** - Chicken Client has a feature which allows you to connect to many servers running newer MC versions (ex: 1.12.2) using 1.8!
+- **Stability** - Chicken Client is built to be stable!
+
+## Get Up and Running
+# Follow these simple steps to get up and running quickly!
+
+1. **Download** - Get the best performance enhancing client [here](https://client.chickennetwork.fun)!
+2. **Installing** - Use our custom installer to install the client. We automatically add Chicken Client to your launcher for ease of use.
+4. **Launch** - Launch Chicken Client and enjoy!
+
+## Chicken Client Support
+If your encounter problems, feel free to join [our discord server](https://discord.gg/JqPrpkezXh)
+
+**Website designed by ZoeyTheDev at Chicken Client
+Copyright © 2024 Chicken Client. All rights reserved.**
