@@ -1,4 +1,4 @@
-![Chicken Client Logo](profile/logo.png)
+![Chicken Client Logo](logo.png)
 
 # Chicken Client
 
