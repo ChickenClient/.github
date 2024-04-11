@@ -23,5 +23,5 @@ Chicken Client is the best free Minecraft Performance enhancing client! We canno
 ## Chicken Client Support
 If your encounter problems, feel free to join [our discord server](https://discord.gg/JqPrpkezXh).
 
-**Website designed by ZoeyTheDev at Chicken Client
-Copyright © 2024 Chicken Client. All rights reserved.**
+Website designed by **ZoeyTheDev at Chicken Client**
+Copyright © 2024 Chicken Client. All rights reserved.
